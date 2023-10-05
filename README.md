@@ -1,5 +1,5 @@
 ### Olá! Eu me Chamo Fernando. 🖖
-- 🔭 Atualmente trabalhando como Assistente de Informática no Atacadão SA
+- 🔭
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rocha-962465200) <hr>
 
