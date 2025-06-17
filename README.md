@@ -32,11 +32,9 @@
   </a>
 
      <a href="https://github.com/bfrjunior">
-        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Software Developer •Contributor/>
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Software Developer • Contributor"/>
      </a>
    
-
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Software Developer •Contributor)](https://git.io/typing-svg)
   
   
 | Containerização e Orquestração | Infraestrutura como Código (IaC) e Automação | Integração e Entrega Contínua (CI/CD) e GitOps | Monitoramento, Logs e Alertas | Ferramentas de Operações          |
