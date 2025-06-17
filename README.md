@@ -31,10 +31,7 @@
   | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </br> <img width="100px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> </br></br> </h3> | | <h3 align="center">  <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/></br> <img width="100px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> </br><img width="100px" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </br><img width="100px" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br> <img width="100px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/><br> <img width="100px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></h3>    <h3 align="center"></br>
   </a>
 
-    <a href="https://github.com/bfrjunior">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Software%20Developer%20%E2%80%A2%20Contributor"/>
-    </a>
-   
+  
   
   
 | Containerização e Orquestração | Infraestrutura como Código (IaC) e Automação | Integração e Entrega Contínua (CI/CD) e GitOps | Monitoramento, Logs e Alertas | Ferramentas de Operações          |
